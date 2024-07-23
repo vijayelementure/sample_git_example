@@ -1,0 +1,3 @@
+hai this is vijay here
+it is my first script pushing on to git 
+thank you 
